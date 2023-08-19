@@ -1,4 +1,4 @@
-# EZShop 🛍️
+# EZ Shop: online CLI retail store 🛍️
 
 EZShop is a simple command-line-based shop management system written in Python. This project aims to provide a basic platform for managing an online shop.
 
